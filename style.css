@@ -1,0 +1,79 @@
+div.head
+{
+	background:#35302F;
+	width:100%;
+	padding-top:20px;
+	padding-bottom:25px;
+	
+}
+
+h1
+{
+color:white;
+font-family:Lucida Console;
+font-size:50px;
+text-align:center;
+}
+
+table
+{
+	text-align:center;
+}
+
+
+li
+{
+color :white;
+font-family:Arial;
+font-weight:bold;
+font-size:20px;
+display:inline;
+padding-left:175px;
+padding-right:100px;
+}
+
+tr{
+
+width:100%;
+border-bottom:black solid 1px;
+}
+
+td
+{
+	font-family: Verdana;
+	font-size:30px;
+	padding-left:50 px;
+	padding-right:50px;
+}
+
+td.descr
+{
+	width:70%;
+}
+input[type="submit"]
+{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+select
+{
+background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	width:40%;
+}
